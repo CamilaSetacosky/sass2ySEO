@@ -1,0 +1,12 @@
+nav {
+    .bg-nav {
+        background-color: #fff;
+    }
+    .nav-text-1 {
+        letter-spacing: 10px; 
+        color: black;
+        &:hover {
+            color: $main-color;
+        }
+    }
+}
